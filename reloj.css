@@ -2,10 +2,10 @@
 html,
 body {
   font-family: "Old Standard TT", serif;
-  background-color: #1f1f1f;
+  
   margin: 0;
   font-size: 0;
-  color: white;
+  color: #0f0d0b;
   text-align: center;
   overflow: hidden;
 }
